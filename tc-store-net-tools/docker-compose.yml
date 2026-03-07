@@ -7,7 +7,7 @@ services:
       APP_PORT: 3500
 
   web:
-    image: ghcr.io/tc-tools/net-tools:latest
+    image: ghcr.io/thomaskn/net-tools:latest
     container_name: tc-store-net-tools_web_1
     restart: on-failure
     environment:
