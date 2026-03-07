@@ -1,0 +1,15 @@
+manifestVersion: 1
+id: tc-store-net-tools
+category: networking
+name: Net Tools
+version: "1.0.0"
+tagline: Network connection manager and monitor
+description: >-
+  Manage and monitor network connections for your server.
+  Auto-discover peers, define persistent connections, and view status.
+developer: Thomas
+website: ""
+repo: ""
+support: ""
+port: 3500
+dependencies: []
