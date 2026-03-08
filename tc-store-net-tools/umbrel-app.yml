@@ -1,8 +1,8 @@
 manifestVersion: 1
 id: tc-store-net-tools
 category: networking
-name: Net Tools
-version: "1.1.0"
+name: Peers Brosnan
+version: "1.2.0"
 tagline: Network connection manager and monitor
 description: >-
   Manage and monitor network connections for your server.
@@ -15,5 +15,5 @@ icon: https://raw.githubusercontent.com/thomasKn/tc-umbrel-store/main/tc-store-n
 port: 3500
 gallery: []
 releaseNotes: >-
-  Tabbed UI, node restart detection, Bitnodes API caching, and address truncation.
+  Renamed to Peers Brosnan.
 dependencies: []
