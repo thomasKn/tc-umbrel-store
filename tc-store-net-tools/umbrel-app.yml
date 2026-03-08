@@ -2,7 +2,7 @@ manifestVersion: 1
 id: tc-store-net-tools
 category: networking
 name: Net Tools
-version: "1.0.0"
+version: "1.1.0"
 tagline: Network connection manager and monitor
 description: >-
   Manage and monitor network connections for your server.
@@ -14,5 +14,6 @@ support: https://github.com/thomasKn/tc-umbrel-store/issues
 icon: https://raw.githubusercontent.com/thomasKn/tc-umbrel-store/main/tc-store-net-tools/icon.png
 port: 3500
 gallery: []
-releaseNotes: ""
+releaseNotes: >-
+  Tabbed UI, node restart detection, Bitnodes API caching, and address truncation.
 dependencies: []
