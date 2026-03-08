@@ -8,8 +8,11 @@ description: >-
   Manage and monitor network connections for your server.
   Auto-discover peers, define persistent connections, and view status.
 developer: Thomas
-website: ""
-repo: ""
-support: ""
+website: https://github.com/thomasKn
+repo: https://github.com/thomasKn/tc-umbrel-store
+support: https://github.com/thomasKn/tc-umbrel-store/issues
+icon: https://raw.githubusercontent.com/thomasKn/tc-umbrel-store/main/tc-store-net-tools/icon.png
 port: 3500
+gallery: []
+releaseNotes: ""
 dependencies: []
